@@ -1,1 +1,5 @@
 inisilize the repository locally: git init
+create new branch: git checkout -b <branch_name>
+to move between branches: git checkout <branch_name>
+to merge <merged_branch> with your current branch: git merge<merged_branch> this way
+
